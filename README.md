@@ -17,17 +17,19 @@ https://www.youtube.com/watch?v=kTp5xUtcalw
 
 # University projects
 
+## Those projects were made in group (mainly 2 or 3 per projects, 4 for "Python + Airflow"). I did not work on every stack of those projects.
+
 ### Group Project : Spark Scala
 https://github.com/kmalki/prestacop
 
-### Group Project : Python + Spark Scala + Airflow
+### Group Project : Python + Airflow
 https://github.com/kmalki/automatisation_airflow
 
-### Group Project : Terraform code from second annual project
+### Group Project : Second annual project, terraform repo. Stack : Terraform
 https://github.com/kmalki/pa-terraform
 
-### Group Project : SpringBoot backend from second annual project
+### Group Project : Second annual project, backend repo. Stack : SpringBoot
 https://github.com/kmalki/pa-backend
 
-### Group Project : First annual project including Terraform + Machine Learning (Fruit Detection) + SpringBoot
+### Group Project : First annual project. Stack : Terraform + SpringBoot + ReactJS + Machine Learning (Fruit Detection)
 https://github.com/kmalki/Food_Tracker
