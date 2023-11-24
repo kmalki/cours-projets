@@ -9,6 +9,11 @@ https://github.com/kmalki/spring-boot-api-classes-management
 ### Django
 https://github.com/kmalki/django-learning
 
+## Currently
+
+### Docker & Kubernetes fundamentals
+https://www.youtube.com/watch?v=kTp5xUtcalw
+
 
 # University projects
 
@@ -26,9 +31,3 @@ https://github.com/kmalki/pa-backend
 
 ### Group Project : First annual project including Terraform + Machine Learning (Fruit Detection) + SpringBoot
 https://github.com/kmalki/Food_Tracker
-
-
-## Currently
-
-### Docker & Kubernetes fundamentals
-https://www.youtube.com/watch?v=kTp5xUtcalw
