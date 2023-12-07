@@ -3,6 +3,9 @@ Les cours et projets ne sont pas forcément dans l'ordre.
 
 # Cours
 
+### EN COURS : Apache Cassandra Database – Full Course for Beginners
+https://www.youtube.com/watch?v=J-cSy5MeMOA
+
 ### Docker & Kubernetes fundamentals
 https://www.youtube.com/watch?v=kTp5xUtcalw
 
