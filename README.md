@@ -3,9 +3,6 @@ Les cours et projets ne sont pas forcément dans l'ordre.
 
 # Cours
 
-### NoSQL Database Tutorial – Full Course for Beginners
-https://www.youtube.com/watch?v=xh4gy1lbL2k
-
 ### Docker & Kubernetes fundamentals
 https://www.youtube.com/watch?v=kTp5xUtcalw
 
