@@ -3,8 +3,9 @@ Les cours et projets ne sont pas forcément dans l'ordre.
 
 # Cours
 
-### EN COURS : Beginner's Crash Course to Elastic Stack
+### Beginner's Crash Course to Elastic Stack
 https://www.youtube.com/watch?v=gS_nHTWZEJ8&list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es
+https://github.com/kmalki/elastic-crash-course
 
 ### Apache Cassandra Database – Full Course for Beginners
 https://www.youtube.com/watch?v=J-cSy5MeMOA
